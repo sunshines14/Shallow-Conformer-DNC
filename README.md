@@ -17,7 +17,7 @@ We used the implementation presented in URL as our baseline script.
 ```
 @techreport{Seo_interspeech2021,
   author    = {Soonshin Seo, Donghyun Lee, Ji-Hwan Kim},
-  title     = {Title},
+  title     = {Shallow Convolution-Augmented Transformer with Differentiable Neural Computer for Low-Complexity Classification of Variable-Length Acoustic Scene},
   institution = {interspeech2021},
   year      = {2021},
 }
