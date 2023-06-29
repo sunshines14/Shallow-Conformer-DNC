@@ -1,9 +1,7 @@
 # Shallow Conformer-DNC
 This repository is the official implementations of our Shallow Conformer-DNC with paper:
 
-Soonshin Seo, Donghyun Lee, and Ji-Hwan Kim: "Shallow Convolution-Augmented Transformer with Differentiable Neural Computer for Low-Complexity Classification of Variable-Length Acoustic Scene", accepted to interspeech 2021 
-
-A paper link at https://www.isca-speech.org/archive/pdfs/interspeech_2021/seo21_interspeech.pdf?ref=https://githubhelp.com
+Soonshin Seo, Donghyun Lee, and Ji-Hwan Kim: "[Shallow Convolution-Augmented Transformer with Differentiable Neural Computer for Low-Complexity Classification of Variable-Length Acoustic Scene](https://www.isca-speech.org/archive/pdfs/interspeech_2021/seo21_interspeech.pdf?ref=https://githubhelp.com)", accepted to interspeech 2021 
   
 ## Usage
  1. Download the dataset form links at https://zenodo.org/record/3819968#.YLiqhfkzaUk
